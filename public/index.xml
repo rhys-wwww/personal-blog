@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rhyswww</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on rhyswww</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Jul 2025 16:55:52 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Mon, 14 Jul 2025 16:55:52 +0100</pubDate>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact-me/</link>
+      <pubDate>Mon, 14 Jul 2025 12:54:13 +0100</pubDate>
+      <guid>http://localhost:1313/contact-me/</guid>
+      <description>&lt;p&gt;You can reach me on &lt;a href=&#34;https://github.com/rhys-wwww&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or via &lt;a href=&#34;mailto:rhyswww@outlook.com&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 14 Jul 2025 12:54:08 +0100</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 14 Jul 2025 12:46:39 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Rhys. I sometimes fix and make things. 🚀&lt;/p&gt;&#xA;&lt;p&gt;Currently a full-time Cyber student.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
