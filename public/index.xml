@@ -6,21 +6,14 @@
     <description>Recent content on rhyswww</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2025 16:55:52 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 14:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/blog/</link>
-      <pubDate>Mon, 14 Jul 2025 16:55:52 +0100</pubDate>
-      <guid>http://localhost:1313/blog/</guid>
-      <description>&lt;p&gt;Coming soon!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact Me</title>
-      <link>http://localhost:1313/contact-me/</link>
-      <pubDate>Mon, 14 Jul 2025 12:54:13 +0100</pubDate>
-      <guid>http://localhost:1313/contact-me/</guid>
-      <description>&lt;p&gt;You can reach me on &lt;a href=&#34;https://github.com/rhys-wwww&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or via &lt;a href=&#34;mailto:rhyswww@outlook.com&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;</description>
+      <title>End of an Era</title>
+      <link>http://localhost:1313/posts/end-of-an-era/</link>
+      <pubDate>Tue, 15 Jul 2025 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/end-of-an-era/</guid>
+      <description>&lt;p&gt;When I started university in September 2021, I set myself a goal: to achieve a First Class degree, no matter what it took. It’s been almost four years since then, and today I’ve been notified that I have officially obtained that grade. It feels great — it may be an undergraduate degree, but I still consider it a colossal achievement.&lt;/p&gt;&#xA;&lt;p&gt;What I’ve come to realise, though, is that when you know well in advance that you&amp;rsquo;re on track to hit your target, it slightly dampens the satisfaction when your final grade is actually released — because, in effect, you already know what you’ve achieved. Nevertheless, I’m proud to have earned a full honours degree, even though university often felt like going through the fire and flames.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
@@ -32,9 +25,16 @@
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 14 Jul 2025 12:46:39 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I’m Rhys. I sometimes fix and make things. 🚀&lt;/p&gt;&#xA;&lt;p&gt;Currently a full-time Cyber student.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I’m Rhys. I sometimes fix and make things. 🚀&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact-me/</guid>
+      <description>&lt;p&gt;You can reach me on &lt;a href=&#34;https://github.com/rhys-wwww&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; or via &lt;a href=&#34;mailto:rhyswww@outlook.com&#34; &gt;email&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

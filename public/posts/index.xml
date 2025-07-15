@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog Posts on rhyswww</title>
+    <title>Posts on rhyswww</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog Posts on rhyswww</description>
+    <description>Recent content in Posts on rhyswww</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2025 16:11:58 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 14:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Mon, 14 Jul 2025 16:11:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
+      <title>End of an Era</title>
+      <link>http://localhost:1313/posts/end-of-an-era/</link>
+      <pubDate>Tue, 15 Jul 2025 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/end-of-an-era/</guid>
+      <description>&lt;p&gt;When I started university in September 2021, I set myself a goal: to achieve a First Class degree, no matter what it took. It’s been almost four years since then, and today I’ve been notified that I have officially obtained that grade. It feels great — it may be an undergraduate degree, but I still consider it a colossal achievement.&lt;/p&gt;&#xA;&lt;p&gt;What I’ve come to realise, though, is that when you know well in advance that you&amp;rsquo;re on track to hit your target, it slightly dampens the satisfaction when your final grade is actually released — because, in effect, you already know what you’ve achieved. Nevertheless, I’m proud to have earned a full honours degree, even though university often felt like going through the fire and flames.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
